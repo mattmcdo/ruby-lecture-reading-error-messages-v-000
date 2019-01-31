@@ -1,3 +1,3 @@
 1 + 1
 
-1 + 520230
+1 + "is the loneliest number"
